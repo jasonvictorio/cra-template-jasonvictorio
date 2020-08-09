@@ -41,7 +41,9 @@
   },
   "devDependencies": {
     "@craco/craco": "^5.6.4",
+    "@types/lodash": "^4.14.159",
     "autoprefixer": "^9.8.6",
+    "lodash": "^4.17.19",
     "node-sass": "^4.14.1",
     "postcss-font-magician": "^2.3.1",
     "postcss-nested": "^4.2.3",
