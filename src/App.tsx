@@ -1,7 +1,7 @@
 import React from 'react'
 import { Router, Link } from '@reach/router'
 
-import { Counter } from './features/counter/Counter'
+import Counter from './components/Counter'
 import About from './views/About'
 import Home from './views/Home'
 
